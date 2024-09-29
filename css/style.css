@@ -6,9 +6,15 @@ body {
     margin: 0;
     background-color: #f0f0f0;
 }
-
 button {
-    padding: 15px 30px;
-    font-size: 20px;
-    cursor: pointer;
-}
+            padding: 20px 40px;
+            font-size: 24px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
